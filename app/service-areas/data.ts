@@ -35,7 +35,7 @@ export const EMAIL = "info@xtremeconcretecutting.com";
 
 export const servicesList = [
   "Core Drilling",
-  "Concrete Slab Cutting",
+  "Concrete Slab Saw Cutting",
   "Concrete Wall Cutting",
   "Reinforced Wall Cutting",
   "Building Demolition",
