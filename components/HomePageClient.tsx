@@ -29,7 +29,7 @@ const services = [
   {
     title: "Concrete Wall Cutting",
     desc: "Controlled wall cutting for doors, windows, utility openings, and concrete modifications.",
-    img: "https://res.cloudinary.com/dwvmjpgxh/image/upload/q_auto/f_auto/v1778181455/safety_fciste.jpg",
+    img: "https://res.cloudinary.com/dwvmjpgxh/image/upload/q_auto/f_auto/v1778181455/McKim$Creed6.jpeg",
     alt: "Concrete wall cutting team preparing for controlled cutting work",
     href: "/services#wall-cutting",
   },
